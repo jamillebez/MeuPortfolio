@@ -23,8 +23,8 @@ Informações de redes sociais e e-mail
 
 Layout responsivo e adaptado para dispositivos móveis
 
-Tecnologias utilizadas
+Tecnologias utilizadas:
 HTML5, CSS3, JavaScript
 
-Objetivo
+Objetivo:
 Valorizar e divulgar o trabalho artístico do grupo, facilitar o contato com o público e oferecer uma vitrine digital para novas oportunidades.
